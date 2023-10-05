@@ -1,8 +1,8 @@
 # [1. Two Sum (Easy)](https://leetcode.com/problems/two-sum)
 
-#### Difficulty: Easy
+Difficulty: Easy
 
-#### Data: Oct. 5th, 2023
+Data: Oct. 5th, 2023
 
 
 ## Solution 1.
